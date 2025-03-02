@@ -1,11 +1,15 @@
-# Trabalho Prático - Semana-01
+# Meu Projeto
 
-## Informações Gerais
-Nome: 
-Matricula: 
+**Nome:** Tiago Souza da Silva
+**Matrícula:** 893647  
 
-## Tela de inspeção com navegador
+## Prints das tarefas
 
+### Inspeção da Rede  
+![Print Inspeção](inspecao_rede.png)
 
-## Tela de projeto no Replit
+### Projeto no Replit  
+![Print Replit](replit_hello_world.png)
 
+### Projeto simples
+![Print do projeto simples](projeto-simples.png)
